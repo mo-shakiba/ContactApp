@@ -1,5 +1,4 @@
-<h1 id="final-project">Final Project</h1>
-<h2 id="contact-list">Contact List</h2>
+<h1 id="ContactApp">Final Project</h1>
 <p><hr></p>
 <h4 id="m-hosein-shakiba-4001268044">M. Hosein Shakiba 4001268044</h4>
 <hr> 
