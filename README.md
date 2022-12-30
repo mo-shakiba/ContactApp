@@ -1,6 +1,6 @@
-<h1 id="ContactApp">Final Project</h1>
+<h1 id="ContactApp">ContactApp</h1>
 <p><hr></p>
-<h4 id="m-hosein-shakiba-4001268044">M. Hosein Shakiba 4001268044</h4>
+<h4 id="m-hosein-shakiba-4001268044">M. Hosein Shakiba</h4>
 <hr> 
 
 ##### 1. Importing re library.
